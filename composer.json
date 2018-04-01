@@ -2,7 +2,7 @@
     "name": "lolcodeca/namecase",
     "description": "A small library to properly apply upper case to (mostly English) surnames.",
     "type": "library",
-    "license": "GPL v3",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Lola Slade",
