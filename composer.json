@@ -1,0 +1,22 @@
+{
+    "name": "lolcodeca/namecase",
+    "description": "A small library to properly apply upper case to (mostly English) surnames.",
+    "type": "library",
+    "license": "GPL v3",
+    "authors": [
+        {
+            "name": "Lola Slade",
+            "email": "lola.slade@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "lolcode\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "6.5.x-dev"
+    }
+}
